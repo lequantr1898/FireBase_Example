@@ -1,1 +1,1 @@
-![Alt Text](Firestore.gif)
+![Alt Text](Firestore.gif).
